@@ -1,0 +1,15 @@
+[
+  {
+    "Username": "Player1",
+    "Name": "John",
+    "Role": "Admin",
+    "Level": 10
+  },
+  {
+    "Username": "Player2",
+    "Name": "Jane",
+    "Role": "Player",
+    "Level": 5
+  }
+  // Add more accounts as needed
+]
